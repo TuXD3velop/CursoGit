@@ -3,3 +3,6 @@ tengo 26 años
 soy programador y diseñador,
 me gusta la programacion
 y los pajaros
+
+He agregado mi nombre
+SuperTuX
